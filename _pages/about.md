@@ -2,7 +2,7 @@
 title: "About"
 permalink: /about/
 header:
-  image: "/images/planets_space.jpg"
+  image: "/assets/images/planets_space.jpg"
 ---
 
 I'm a computer science student at the University of the West Indies, St Augustine, Trinidad. I have a passion for Machine Learning, AI, Robotics and other related fields including IoT.
