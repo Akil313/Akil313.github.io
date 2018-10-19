@@ -15,11 +15,11 @@
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "en-US"
-title                    : "Akil Hosang"
-title_separator          : "-"
-name                     : "Akil Hosang"
-description              : "My Personal Blog"
+locale                   :  "en-US"
+title                    :  "Akil Hosang"
+title_separator          :  "-"
+name                     :  "Akil Hosang"
+description              :  "My Personal Blog"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -101,15 +101,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Akil Hosang"
+  name             :  "Akil Hosang"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Personal blog"
-  location         : "Trinidad"
-  email            : "akilhosang@gmail.com"
+  bio              :  "Personal blog"
+  location         :  "Trinidad"
+  email            :  "akilhosang@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "akilhosang@gmail.com"
+      url:  "akilhosang@gmail.com"
 
     - label: "Website"
       icon: "fas fa-fw fa-link"
@@ -125,7 +125,7 @@ author:
 
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/Akil313"
+      url:  "https://github.com/Akil313"
 
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
@@ -142,7 +142,7 @@ footer:
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/Akil313"
+      url:  "https://github.com/Akil313"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
