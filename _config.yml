@@ -102,7 +102,7 @@ analytics:
 # Site Author
 author:
   name             : "Akil Hosang"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/profile_pic.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "[Insert my amazing bio here]"
   location         : "Trinidad and Tobago"
   email            :
@@ -288,3 +288,12 @@ defaults:
       comments: # true
       share: true
       related: true
+      
+defaults:
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
