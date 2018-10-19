@@ -105,11 +105,11 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Personal blog"
   location         : "Trinidad"
-  email            :
+  email            : "akilhosang@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: akilhosang@gmail.com
+      url: "akilhosang@gmail.com"
 
     - label: "Website"
       icon: "fas fa-fw fa-link"
@@ -142,7 +142,7 @@ footer:
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: https://github.com/Akil313
+      url: "https://github.com/Akil313"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
