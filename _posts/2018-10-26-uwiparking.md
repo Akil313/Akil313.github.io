@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2018-10-27
 title: "Computer Vision Parking Tracker"
+date: 2018-10-27
 ---
 
 Hello everyone. Seeing that this is my first blog post, I hope to be very free with my writing and just create something enjoyable for you to read. Enjoy.
