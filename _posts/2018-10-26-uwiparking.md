@@ -1,4 +1,5 @@
 ---
+layout: posts
 title: "Computer Vision Parking Tracker"
 date: 2018-10-27
 ---
