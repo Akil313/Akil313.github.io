@@ -23,4 +23,4 @@ Of all the models I've studied for this course, I think SCRUM is definitely my f
 To get the requirements, one person had to act as the 'Product Manager' and list requirements but honestly, everyone in the group listed requirements just so we could get the best out of the system. To be fair though, the product manager started it off.
 
 This is the result of developing our product and sprint backlog:
-![Prod Backlog](/assets/images/pblog.png)
+![Prod Backlog](/assets/images/pblog.PNG)
