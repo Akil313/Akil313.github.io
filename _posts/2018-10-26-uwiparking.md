@@ -25,7 +25,7 @@ To get the requirements, one person had to act as the 'Product Manager' and list
 This is the result of developing our product and sprint backlog:
 ![Prod Backlog](/assets/images/pblog.PNG)
 
-#Post 2
+# Post 2
 ## 13/11/2018
 Its been too long since I've updated this blog but better late than never?
 
@@ -34,13 +34,13 @@ So since the last post, there's been notable progress although there should have
 Firstly ill tart with the members of my group, our progress, challenges and other factors affecting the completion of the project.
 From the SCRUM methodology, this is called the 'Project Retrospect'
 
-##Project Retrospect
+## Project Retrospect
 
 
 
 Next I'll talk about what I've been doing for the Raspberry Pi
 
-##Raspberry Pi code
+## Raspberry Pi code
 
 Sadly we haven't gotten into the mean of the Pi code which is the computer vision to recognize the number of cars but one step at a time.
 
@@ -79,3 +79,24 @@ def activate():
 Which basically gave me this. The data isn't properly formatted but you can see that there is a value that changes between 50 and 55 every 10 seconds which is reflected in Firestore.
 
 ![Basic Output](/assets/images/basic_out.PNG)
+
+# Post 3
+
+## Sprint Meetings
+So to begin this post, I want to cover briefly what was talked about in our meetings between posts.
+
+In terms of discussing what we got done, there was not much to report on aside from learning about the frameworks we had to develop the application with.
+
+For the challenges, we also shared the same challenge which was the time spent on coding and so we decided to devote Tuesdays to focus on this project.
+
+Another thing we talked about, was the development of test cases and continuous integration. The test cases would have to be developed differently for the web app opposed to the Raspberry Pi code but we each needed to get them done. We also needed to integrate a method of continuous integration, in which we agreed to use Circle CI.
+
+## Raspberry Pi progress
+So I am proud to type that progress was made :) Not as much as I had desired but we can definitely finish this sprint with ample testing.
+
+For this post, I'll talk about my journey to remotely accessing the Raspberry Pi. To drastically increase my workflow, I needed to access the Pi's GUI remotely. This may have had to been done regardless of increase in productivity.
+
+To remotely access the Pi's GUI, I had to SSH, Secure Shell, into the Pi. This was done through an application called PuTTY. This allowed me to be connected to the Pi's terminal as long as we were on the same network. This alone did not provide me with the GUI I needed so after getting the Pi's IP address, I used an application called
+VNC Viewer and after entering the IP address into this application, I was able to see the GUI.
+
+![NVC Viewer](/assets/images/nvcViewer.PNG)
