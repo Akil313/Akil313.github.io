@@ -42,7 +42,7 @@ This is the result of developing our product and sprint backlog:
 
 # Post 2
 ## 13/11/2018
-##Hours worked
+## Hours worked
 6
 ## Tasks completed
 * Setup web application
@@ -147,6 +147,8 @@ To remotely access the Pi's GUI, I had to SSH, Secure Shell, into the Pi. This w
 VNC Viewer and after entering the IP address into this application, I was able to see the GUI.
 
 ![NVC Viewer](/assets/images/nvcViewer.PNG)
+
+---
 
 # Post 4
 ## Hours worked
